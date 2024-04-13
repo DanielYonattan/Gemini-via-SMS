@@ -1,5 +1,5 @@
 config.py
-bin
+bin/
 lib
 pyvenv.cfg 
 include
